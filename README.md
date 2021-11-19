@@ -2,11 +2,11 @@
 
 
 
-### Hi there, I am Prerak Raja 👋
-[![Linkedin Badge](https://img.shields.io/badge/-rajaprerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajaprerak/)](https://www.linkedin.com/in/rajaprerak/)
-[![Gmail Badge](https://img.shields.io/badge/-rajaprerak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajaprerak@gmail.com)](mailto:rajaprerak@gmail.com) 
+### Hi there, I am Sirish Prabakar 👋
+[![Linkedin Badge](https://img.shields.io/badge/-SirishPrabakar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sirish-prabakar-1a5552154/)](https://www.linkedin.com/in/rajaprerak/)
+[![Gmail Badge](https://img.shields.io/badge/-sirish999@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sirish999@gmail.com)](mailto:rajaprerak@gmail.com) 
 
-- 🎯 Portfolio website: [Portfolio](https://rajaprerak.github.io/)
+- 🎯 Portfolio website: [Portfolio](https://sirish999.github.io/sirishprabakar.github.io/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 💻 **Things I love**

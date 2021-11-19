@@ -36,6 +36,6 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat&logo=pandas)
 
 <div align="center">
-    <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+    <h3 align="center">Feel free to connect.</h3>
 </div>
 
